@@ -1,10 +1,10 @@
 # EMBEDDED-Android_ArduinoESP8266_MQTT_Local_Online
-/**
- * Created by anggara on 13/02/2018.
- * wj.anggara@gmail.com
- * https://github.com/wj-anggara
- * https://www.facebook.com/wj.anggara
- */
+
+ Created by anggara on 13/02/2018.
+ wj.anggara@gmail.com
+ https://github.com/wj-anggara
+ https://www.facebook.com/wj.anggara
+
  
 Aplikasi Android dan ESP8266 menggunakan protokol MQTT dan platform arduino untuk kontrol dan monitoring.
 Silakan download dan ekstrak terdapat 2 file, yaitu file program android dengan android studio dan untuk esp8266 menggunakan Arduino IDE
