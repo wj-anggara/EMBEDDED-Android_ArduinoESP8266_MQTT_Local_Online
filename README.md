@@ -5,10 +5,11 @@
  * wj.anggara@gmail.com
  * https://github.com/wj-anggara
  * https://www.facebook.com/wj.anggara
- **/
+ *
+ */
 
  
-Aplikasi Android dan ESP8266 menggunakan protokol MQTT dan platform arduino untuk kontrol dan monitoring.
+Pengembangan aplikasi android dan ESP8266 menggunakan protokol MQTT dan platform arduino untuk kontrol dan monitoring.
 Silakan download dan ekstrak terdapat 2 file, yaitu file program android dengan android studio dan untuk esp8266 menggunakan Arduino IDE
 
 # Langkah ujicoba dengan mengikuti petunjuk berikut :
